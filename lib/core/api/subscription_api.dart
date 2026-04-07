@@ -35,7 +35,6 @@
 //   }
 // }
 
-
 part of '../core.dart';
 
 class SubscriptionApi {
